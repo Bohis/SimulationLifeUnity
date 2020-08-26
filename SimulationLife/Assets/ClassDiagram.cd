@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NeiralNet.NeuralComponets">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAARKAAAA=</HashCode>
+      <FileName>Assets\Script\BotScript\NeiralNet\AbstractNeuralComponets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NeiralNet.Function">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAABA=</HashCode>
+      <FileName>Assets\Script\BotScript\NeiralNet\Function.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NeiralNet.HiddenLayer">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\BotScript\NeiralNet\HiddenLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NeiralNet.InputLayer">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\BotScript\NeiralNet\InputLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NeiralNet.Matrix">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\BotScript\NeiralNet\Matrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NeiralNet.NeuralNetwork" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAJAAAAAAQEQAAAAAAAAAEQABAIAAAAAAAoAEA=</HashCode>
+      <FileName>Assets\Script\BotScript\NeiralNet\NeuralNetwork.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NeiralNet.OutputLayer">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\BotScript\NeiralNet\OutputLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NeiralNet.SynapseLayer">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\BotScript\NeiralNet\SynapseLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BotCollection">
+    <Position X="1.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAABQAAAIAAAAAAAAAAAAAAAAAAgAJA=</HashCode>
+      <FileName>Assets\Script\ControllBlockScript\BotCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BotStartSpawn">
+    <Position X="3.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAEAACAACAAAAAAAAAAAAAAAAAAQAAAQAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Script\ControllBlockScript\BotStartSpawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraController">
+    <Position X="5.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAACAAAAAAAAAAAAAAAAABCAABACAAAEQAAEA=</HashCode>
+      <FileName>Assets\Script\ControllBlockScript\CameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LockCursor">
+    <Position X="1.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\ControllBlockScript\LockCursor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrganicSpawn">
+    <Position X="3.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAACBAAAAAAAAEAAAAAEAAAAAAQAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Script\ControllBlockScript\OrganicSpawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Tree.IKnot">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\BotScript\Tree\IKnot.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

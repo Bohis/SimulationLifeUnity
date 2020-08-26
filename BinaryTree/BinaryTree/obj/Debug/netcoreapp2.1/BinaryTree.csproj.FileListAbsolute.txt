@@ -1,0 +1,11 @@
+E:\YandexDisk\SimulationLifeUnity\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.deps.json
+E:\YandexDisk\SimulationLifeUnity\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.runtimeconfig.json
+E:\YandexDisk\SimulationLifeUnity\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.runtimeconfig.dev.json
+E:\YandexDisk\SimulationLifeUnity\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.dll
+E:\YandexDisk\SimulationLifeUnity\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.pdb
+E:\YandexDisk\SimulationLifeUnity\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.csprojAssemblyReference.cache
+E:\YandexDisk\SimulationLifeUnity\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.csproj.CoreCompileInputs.cache
+E:\YandexDisk\SimulationLifeUnity\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.AssemblyInfoInputs.cache
+E:\YandexDisk\SimulationLifeUnity\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.AssemblyInfo.cs
+E:\YandexDisk\SimulationLifeUnity\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.dll
+E:\YandexDisk\SimulationLifeUnity\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.pdb
